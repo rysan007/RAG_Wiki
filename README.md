@@ -17,7 +17,7 @@ Ensure you are connected to the UTSA VPN, then set your API variables.
 
 ### Windows (Command Prompt):
 
-set OPENAI_API_KEY=your_dummy_key_here
+set OPENAI_API_KEY=your_key_here
 
 set OPENAI_BASE_URL=[http://10.246.100.230/v1](http://10.246.100.230/v1)
 
