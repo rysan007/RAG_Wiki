@@ -2,7 +2,7 @@
 **Track Selected:** Track A, Text RAG (Short)
 
 ## Pipeline Summary
-This project implements a fully local RAG pipeline that avoids API constraints. The vector database used is Chroma, saved to `./chroma_text`. A subset of the Wikipedia Simple English dataset was embedded locally using the `all-MiniLM-L6-v2` sentence-transformer model. The generator uses the `llama-3.3-70b-instruct-awq` instruction-tuned model, accessed with a local/VPN endpoint, to create grounded answers from the top $k=4$ retrieved contexts. 
+This project implements a fully local RAG pipeline that avoids API constraints. The vector database used is Chroma, saved to `./chroma_text`. A subset of the Wikipedia Simple English dataset (wikipedia/wikipedia (20220301.simple)) was embedded locally using the `all-MiniLM-L6-v2` sentence-transformer model. The generator uses the `llama-3.3-70b-instruct-awq` instruction-tuned model, accessed with a local/VPN endpoint, to create grounded answers from the top $k=4$ retrieved contexts. 
 
 ## Part 1: Baseline Queries
 | Query ID & Text | Top K Sources | Similarity | Generated Answer (First 2 Sentences) | Grounded Correctly? |
