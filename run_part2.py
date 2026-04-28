@@ -51,21 +51,10 @@ def main():
     generator = RAGGenerator()
 
     # 10 Part 2 Queries (EverQuest topics on foods and locations)
-    queries = [
-        # Targeted Queries 
-        "What is the main benefit of consuming a Jumjum pie?",
-        "Who is the leader of the village of Rivervale?",
-        "What is the primary ingredient needed for Bat Wing Crunchies?",
-        "What kind of meat is used for the Beer Braised Mammoth recipe?",
-        "What is the name of the raft that travels from Halas to Everfrost?",
-        
-        # Cross-Corpus Queries (both wiki and custom)
-        "Does Rivervale have a greater economic output than France?",
-        "Would the harsh climate of Halas exist on Earth?",
-        "Is Beer Braised Mammoth part of a common diet plan?",
-        "Are the ingredients in a Jumjum pie available in America?",
-        "Did anyone eat Bat Wing Crunchies during World War II?"
-    ]
+    # Load queries from the external JSON file
+    with open("queries.json", "r", encoding="utf-8") as f:
+        queries_data = json.load(f)
+    queries = queries_data["part2"]
 
     results_table = []
     print("\nStarting Part 2 Inference.\n")
