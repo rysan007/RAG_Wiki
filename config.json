@@ -1,0 +1,7 @@
+{
+    "embedding_model_name": "all-MiniLM-L6-v2",
+    "generator_model_name": "llama-3.3-70b-instruct-awq",
+    "top_k": 4,
+    "vector_db_path": "./chroma_text",
+    "collection_name": "wiki_local"
+}

@@ -1,0 +1,282 @@
+[
+    {
+        "query_id": "Q1",
+        "query_text": "What is a Artificial intelligence?",
+        "top_k_sources": [
+            {
+                "title": "Artificial intelligence",
+                "url": "https://simple.wikipedia.org/wiki/Artificial%20intelligence",
+                "distance": 0.3109
+            },
+            {
+                "title": "Intelligence",
+                "url": "https://simple.wikipedia.org/wiki/Intelligence",
+                "distance": 0.9162
+            },
+            {
+                "title": "Expert system",
+                "url": "https://simple.wikipedia.org/wiki/Expert%20system",
+                "distance": 0.9207
+            },
+            {
+                "title": "Intelligence quotient",
+                "url": "https://simple.wikipedia.org/wiki/Intelligence%20quotient",
+                "distance": 0.9429
+            }
+        ],
+        "generated_answer": "According to [1] Artificial intelligence, Artificial intelligence (AI) is the ability of a computer program or a machine to think and learn. It is also a field of study which tries to make computers \"smart\". They work on their own without being encoded with commands.",
+        "grounded_correctly": "Yes"
+    },
+    {
+        "query_id": "Q2",
+        "query_text": "Who is the father of video games?",
+        "top_k_sources": [
+            {
+                "title": "Shooter",
+                "url": "https://simple.wikipedia.org/wiki/Shooter",
+                "distance": 0.8811
+            },
+            {
+                "title": "Shigeru Miyamoto",
+                "url": "https://simple.wikipedia.org/wiki/Shigeru%20Miyamoto",
+                "distance": 0.9124
+            },
+            {
+                "title": "Sega",
+                "url": "https://simple.wikipedia.org/wiki/Sega",
+                "distance": 0.9313
+            },
+            {
+                "title": "John Carmack",
+                "url": "https://simple.wikipedia.org/wiki/John%20Carmack",
+                "distance": 1.004
+            }
+        ],
+        "generated_answer": "I do not know. The provided context does not mention who is considered the \"father of video games\".",
+        "grounded_correctly": "Yes"
+    },
+    {
+        "query_id": "Q3",
+        "query_text": "What is the capitol of Texas?",
+        "top_k_sources": [
+            {
+                "title": "Texas",
+                "url": "https://simple.wikipedia.org/wiki/Texas",
+                "distance": 0.6569
+            },
+            {
+                "title": "Austin, Texas",
+                "url": "https://simple.wikipedia.org/wiki/Austin%2C%20Texas",
+                "distance": 0.8297
+            },
+            {
+                "title": "Dallas",
+                "url": "https://simple.wikipedia.org/wiki/Dallas",
+                "distance": 0.8576
+            },
+            {
+                "title": "Corpus Christi, Texas",
+                "url": "https://simple.wikipedia.org/wiki/Corpus%20Christi%2C%20Texas",
+                "distance": 0.8679
+            }
+        ],
+        "generated_answer": "The capital of Texas is Austin. (Source: [1] Texas, https://simple.wikipedia.org/wiki/Texas and [2] Austin, Texas, https://simple.wikipedia.org/wiki/Austin%2C%20Texas)",
+        "grounded_correctly": "Yes"
+    },
+    {
+        "query_id": "Q4",
+        "query_text": "What is the largest country?",
+        "top_k_sources": [
+            {
+                "title": "Russia",
+                "url": "https://simple.wikipedia.org/wiki/Russia",
+                "distance": 0.8075
+            },
+            {
+                "title": "Pakistan",
+                "url": "https://simple.wikipedia.org/wiki/Pakistan",
+                "distance": 0.9442
+            },
+            {
+                "title": "Brazil",
+                "url": "https://simple.wikipedia.org/wiki/Brazil",
+                "distance": 0.969
+            },
+            {
+                "title": "States of Germany",
+                "url": "https://simple.wikipedia.org/wiki/States%20of%20Germany",
+                "distance": 1.0119
+            }
+        ],
+        "generated_answer": "According to [1] Russia, https://simple.wikipedia.org/wiki/Russia, Russia is the largest country in the world.",
+        "grounded_correctly": "Yes"
+    },
+    {
+        "query_id": "Q5",
+        "query_text": "What is the largest ocean on Earth?",
+        "top_k_sources": [
+            {
+                "title": "Atlantic Ocean",
+                "url": "https://simple.wikipedia.org/wiki/Atlantic%20Ocean",
+                "distance": 0.6451
+            },
+            {
+                "title": "Pacific Ocean",
+                "url": "https://simple.wikipedia.org/wiki/Pacific%20Ocean",
+                "distance": 0.8749
+            },
+            {
+                "title": "List of seas",
+                "url": "https://simple.wikipedia.org/wiki/List%20of%20seas",
+                "distance": 0.9261
+            },
+            {
+                "title": "Whale shark",
+                "url": "https://simple.wikipedia.org/wiki/Whale%20shark",
+                "distance": 0.9832
+            }
+        ],
+        "generated_answer": "According to the context provided by [2] title: Pacific Ocean, url: https://simple.wikipedia.org/wiki/Pacific%20Ocean, the Pacific Ocean is the largest named ocean and it covers one-third of the surface of the entire world.",
+        "grounded_correctly": "Yes"
+    },
+    {
+        "query_id": "Q6",
+        "query_text": "Who wrote the James Bond series?",
+        "top_k_sources": [
+            {
+                "title": "James Bond",
+                "url": "https://simple.wikipedia.org/wiki/James%20Bond",
+                "distance": 0.7659
+            },
+            {
+                "title": "Goldfinger (movie)",
+                "url": "https://simple.wikipedia.org/wiki/Goldfinger%20%28movie%29",
+                "distance": 0.813
+            },
+            {
+                "title": "Ian Fleming",
+                "url": "https://simple.wikipedia.org/wiki/Ian%20Fleming",
+                "distance": 0.8399
+            },
+            {
+                "title": "Sean Connery",
+                "url": "https://simple.wikipedia.org/wiki/Sean%20Connery",
+                "distance": 0.8948
+            }
+        ],
+        "generated_answer": "Ian Fleming wrote the James Bond series, as stated in [1] James Bond (https://simple.wikipedia.org/wiki/James%20Bond) and confirmed in [3] Ian Fleming (https://simple.wikipedia.org/wiki/Ian%20Fleming).",
+        "grounded_correctly": "Yes"
+    },
+    {
+        "query_id": "Q7",
+        "query_text": "What is the Mario Brothers series about?",
+        "top_k_sources": [
+            {
+                "title": "Mario Bros.",
+                "url": "https://simple.wikipedia.org/wiki/Mario%20Bros.",
+                "distance": 0.6911
+            },
+            {
+                "title": "Mario",
+                "url": "https://simple.wikipedia.org/wiki/Mario",
+                "distance": 0.8115
+            },
+            {
+                "title": "Luigi",
+                "url": "https://simple.wikipedia.org/wiki/Luigi",
+                "distance": 0.8249
+            },
+            {
+                "title": "Mario Party (series)",
+                "url": "https://simple.wikipedia.org/wiki/Mario%20Party%20%28series%29",
+                "distance": 0.8433
+            }
+        ],
+        "generated_answer": "The provided context does not contain information about the \"Mario Brothers series\" as a whole. It provides information about specific games and characters, such as Mario Bros. [1], Mario [2], Luigi [3], and Mario Party series [4]. However, based on the information about the game \"Mario Bros.\" [1], it can be inferred that the series may involve Mario and Luigi navigating through levels, defeating enemies, and possibly collecting items. But I do not know the full scope of the Mario Brothers series.",
+        "grounded_correctly": "Yes, though it did not understand that Mario Brothers and Mario Bros. is the same thing."
+    },
+    {
+        "query_id": "Q8",
+        "query_text": "Who is the largest exporter of coffee?",
+        "top_k_sources": [
+            {
+                "title": "Coffee",
+                "url": "https://simple.wikipedia.org/wiki/Coffee",
+                "distance": 0.9379
+            },
+            {
+                "title": "Starbucks",
+                "url": "https://simple.wikipedia.org/wiki/Starbucks",
+                "distance": 1.0946
+            },
+            {
+                "title": "Export",
+                "url": "https://simple.wikipedia.org/wiki/Export",
+                "distance": 1.1275
+            },
+            {
+                "title": "Manaus",
+                "url": "https://simple.wikipedia.org/wiki/Manaus",
+                "distance": 1.2144
+            }
+        ],
+        "generated_answer": "I do not know. The provided context does not contain information about the largest exporter of coffee.",
+        "grounded_correctly": "Yes, specific data was not found"
+    },
+    {
+        "query_id": "Q9",
+        "query_text": "How large is our galaxy?",
+        "top_k_sources": [
+            {
+                "title": "Milky Way",
+                "url": "https://simple.wikipedia.org/wiki/Milky%20Way",
+                "distance": 0.8003
+            },
+            {
+                "title": "Galaxy",
+                "url": "https://simple.wikipedia.org/wiki/Galaxy",
+                "distance": 1.0244
+            },
+            {
+                "title": "Los Angeles Galaxy",
+                "url": "https://simple.wikipedia.org/wiki/Los%20Angeles%20Galaxy",
+                "distance": 1.1164
+            },
+            {
+                "title": "Giant squid",
+                "url": "https://simple.wikipedia.org/wiki/Giant%20squid",
+                "distance": 1.152
+            }
+        ],
+        "generated_answer": "According to the source \"Milky Way\" (https://simple.wikipedia.org/wiki/Milky%20Way), the Milky Way has a diameter of about 170,000 or 200,000 light years.",
+        "grounded_correctly": "Yes"
+    },
+    {
+        "query_id": "Q10",
+        "query_text": "What is the most popular class in EverQuest?",
+        "top_k_sources": [
+            {
+                "title": "Think Quest",
+                "url": "https://simple.wikipedia.org/wiki/Think%20Quest",
+                "distance": 1.3329
+            },
+            {
+                "title": "Winx Club",
+                "url": "https://simple.wikipedia.org/wiki/Winx%20Club",
+                "distance": 1.399
+            },
+            {
+                "title": "Subject (school)",
+                "url": "https://simple.wikipedia.org/wiki/Subject%20%28school%29",
+                "distance": 1.4236
+            },
+            {
+                "title": "Cannes Film Festival",
+                "url": "https://simple.wikipedia.org/wiki/Cannes%20Film%20Festival",
+                "distance": 1.4305
+            }
+        ],
+        "generated_answer": "I do not know. The provided context does not mention EverQuest or its classes. The context only discusses Think Quest, an educational website, and other unrelated topics.",
+        "grounded_correctly": "Yes, this obscure subject was not included in the extracted dataset"
+    }
+]

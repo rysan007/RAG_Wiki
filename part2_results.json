@@ -1,0 +1,322 @@
+[
+    {
+        "query_id": "P2_Q1",
+        "query_text": "What is the main benefit of consuming a Jumjum pie?",
+        "top_k_sources": [
+            {
+                "title": "Jumjum_Pie.txt",
+                "url": "local://Jumjum_Pie.txt",
+                "source_type": "New Item",
+                "distance": 0.4681
+            },
+            {
+                "title": "Pie",
+                "url": "https://simple.wikipedia.org/wiki/Pie",
+                "source_type": "Starter Corpus",
+                "distance": 1.0689
+            },
+            {
+                "title": "Pieve Ligure",
+                "url": "https://simple.wikipedia.org/wiki/Pieve%20Ligure",
+                "source_type": "Starter Corpus",
+                "distance": 1.1858
+            },
+            {
+                "title": "Beekeeping",
+                "url": "https://simple.wikipedia.org/wiki/Beekeeping",
+                "source_type": "Starter Corpus",
+                "distance": 1.1984
+            }
+        ],
+        "generated_answer": "The main benefit of consuming a Jumjum pie is that it increases a traveler's health regeneration rate when they are resting outside of combat. (Source: Jumjum_Pie.txt, local://Jumjum_Pie.txt)",
+        "grounded_correctly": "Yes"
+    },
+    {
+        "query_id": "P2_Q2",
+        "query_text": "Who is the leader of the village of Rivervale?",
+        "top_k_sources": [
+            {
+                "title": "Rivervale.txt",
+                "url": "local://Rivervale.txt",
+                "source_type": "New Item",
+                "distance": 0.5376
+            },
+            {
+                "title": "1201",
+                "url": "https://simple.wikipedia.org/wiki/1201",
+                "source_type": "Starter Corpus",
+                "distance": 1.1339
+            },
+            {
+                "title": "1218",
+                "url": "https://simple.wikipedia.org/wiki/1218",
+                "source_type": "Starter Corpus",
+                "distance": 1.1886
+            },
+            {
+                "title": "Tatworth",
+                "url": "https://simple.wikipedia.org/wiki/Tatworth",
+                "source_type": "Starter Corpus",
+                "distance": 1.1974
+            }
+        ],
+        "generated_answer": "The leader of the village of Rivervale is Mayor Gubbin, a former rogue who is famously wealthy, as stated in [1] Rivervale.txt, local://Rivervale.txt.",
+        "grounded_correctly": "Yes"
+    },
+    {
+        "query_id": "P2_Q3",
+        "query_text": "What is the primary ingredient needed for Bat Wing Crunchies?",
+        "top_k_sources": [
+            {
+                "title": "Bat_Wing_Crunchies.txt",
+                "url": "local://Bat_Wing_Crunchies.txt",
+                "source_type": "New Item",
+                "distance": 0.6097
+            },
+            {
+                "title": "Guano",
+                "url": "https://simple.wikipedia.org/wiki/Guano",
+                "source_type": "Starter Corpus",
+                "distance": 1.224
+            },
+            {
+                "title": "Venus flytrap",
+                "url": "https://simple.wikipedia.org/wiki/Venus%20flytrap",
+                "source_type": "Starter Corpus",
+                "distance": 1.2392
+            },
+            {
+                "title": "Wing",
+                "url": "https://simple.wikipedia.org/wiki/Wing",
+                "source_type": "Starter Corpus",
+                "distance": 1.2524
+            }
+        ],
+        "generated_answer": "The primary ingredient needed for Bat Wing Crunchies is bat wings, which are commonly harvested from the various giant bats found in caves and across the Butcherblock Mountains. (Source: Bat_Wing_Crunchies.txt, local://Bat_Wing_Crunchies.txt)",
+        "grounded_correctly": "Yes"
+    },
+    {
+        "query_id": "P2_Q4",
+        "query_text": "What kind of meat is used for the Beer Braised Mammoth recipe?",
+        "top_k_sources": [
+            {
+                "title": "Beer_Braised_Mammoth.txt",
+                "url": "local://Beer_Braised_Mammoth.txt",
+                "source_type": "New Item",
+                "distance": 0.3331
+            },
+            {
+                "title": "Meat",
+                "url": "https://simple.wikipedia.org/wiki/Meat",
+                "source_type": "Starter Corpus",
+                "distance": 1.143
+            },
+            {
+                "title": "Beer",
+                "url": "https://simple.wikipedia.org/wiki/Beer",
+                "source_type": "Starter Corpus",
+                "distance": 1.2684
+            },
+            {
+                "title": "List of towns in Greenland",
+                "url": "https://simple.wikipedia.org/wiki/List%20of%20towns%20in%20Greenland",
+                "source_type": "Starter Corpus",
+                "distance": 1.2731
+            }
+        ],
+        "generated_answer": "The Beer Braised Mammoth recipe uses mammoth meat, specifically thick mammoth steaks, which are harvested from massive mammoths roaming the frozen tundras of Everfrost. (Source: Beer_Braised_Mammoth.txt, local://Beer_Braised_Mammoth.txt)",
+        "grounded_correctly": "Yes"
+    },
+    {
+        "query_id": "P2_Q5",
+        "query_text": "What is the name of the raft that travels from Halas to Everfrost?",
+        "top_k_sources": [
+            {
+                "title": "Halas.txt",
+                "url": "local://Halas.txt",
+                "source_type": "New Item",
+                "distance": 0.7985
+            },
+            {
+                "title": "Atlantis",
+                "url": "https://simple.wikipedia.org/wiki/Atlantis",
+                "source_type": "Starter Corpus",
+                "distance": 1.2505
+            },
+            {
+                "title": "Melanesia",
+                "url": "https://simple.wikipedia.org/wiki/Melanesia",
+                "source_type": "Starter Corpus",
+                "distance": 1.2875
+            },
+            {
+                "title": "Cabrillo Beach",
+                "url": "https://simple.wikipedia.org/wiki/Cabrillo%20Beach",
+                "source_type": "Starter Corpus",
+                "distance": 1.3073
+            }
+        ],
+        "generated_answer": "The name of the legendary raft is The Gwenavyne. It is used to travel across the frigid waters surrounding Halas, but the text does not specifically state that it travels from Halas to Everfrost, only that it is used to travel across the waters surrounding the city, which is located near the Everfrost Peaks. (Source: Halas.txt, local://Halas.txt)",
+        "grounded_correctly": "Yes"
+    },
+    {
+        "query_id": "P2_Q6",
+        "query_text": "Does Rivervale have a greater economic output than France?",
+        "top_k_sources": [
+            {
+                "title": "List of waterways",
+                "url": "https://simple.wikipedia.org/wiki/List%20of%20waterways",
+                "source_type": "Starter Corpus",
+                "distance": 1.0566
+            },
+            {
+                "title": "Rivervale.txt",
+                "url": "local://Rivervale.txt",
+                "source_type": "New Item",
+                "distance": 1.161
+            },
+            {
+                "title": "Marseille",
+                "url": "https://simple.wikipedia.org/wiki/Marseille",
+                "source_type": "Starter Corpus",
+                "distance": 1.165
+            },
+            {
+                "title": "Bordeaux",
+                "url": "https://simple.wikipedia.org/wiki/Bordeaux",
+                "source_type": "Starter Corpus",
+                "distance": 1.2063
+            }
+        ],
+        "generated_answer": "I do not know. The provided context does not contain information about the economic output of Rivervale or a comprehensive economic output of France. [2] title: Rivervale.txt, url: local://Rivervale.txt, describes Rivervale as having \"tranquil farms, bustling docks\", but does not provide specific economic data. The context does provide information about the economic activities of specific cities in France, such as Marseille [3] title: Marseille, url: https://simple.wikipedia.org/wiki/Marseille, and Bordeaux [4] title: Bordeaux, url: https://simple.wikipedia.org/wiki/Bordeaux, but not enough to compare to Rivervale.",
+        "grounded_correctly": "Yes"
+    },
+    {
+        "query_id": "P2_Q7",
+        "query_text": "Would the harsh climate of Halas exist on Earth?",
+        "top_k_sources": [
+            {
+                "title": "Halas.txt",
+                "url": "local://Halas.txt",
+                "source_type": "New Item",
+                "distance": 0.8937
+            },
+            {
+                "title": "Chile",
+                "url": "https://simple.wikipedia.org/wiki/Chile",
+                "source_type": "Starter Corpus",
+                "distance": 1.2516
+            },
+            {
+                "title": "Atacama Desert",
+                "url": "https://simple.wikipedia.org/wiki/Atacama%20Desert",
+                "source_type": "Starter Corpus",
+                "distance": 1.2524
+            },
+            {
+                "title": "Climate",
+                "url": "https://simple.wikipedia.org/wiki/Climate",
+                "source_type": "Starter Corpus",
+                "distance": 1.2555
+            }
+        ],
+        "generated_answer": "Based on the provided context, the harsh, frozen climate of Halas, as described in [1] title: Halas.txt, is similar to a Polar climate, as defined in [4] title: Climate, url: https://simple.wikipedia.org/wiki/Climate. According to [4], a Polar climate has long, usually very cold winters, and short summers, which matches the description of Halas as a \"harsh, frozen city\". \n\nTherefore, yes, a climate similar to Halas could exist on Earth, in regions with a Polar climate.",
+        "grounded_correctly": "Yes, a good relation of climates was made"
+    },
+    {
+        "query_id": "P2_Q8",
+        "query_text": "Is Beer Braised Mammoth part of a common diet plan?",
+        "top_k_sources": [
+            {
+                "title": "Beer_Braised_Mammoth.txt",
+                "url": "local://Beer_Braised_Mammoth.txt",
+                "source_type": "New Item",
+                "distance": 0.4904
+            },
+            {
+                "title": "Reinheitsgebot",
+                "url": "https://simple.wikipedia.org/wiki/Reinheitsgebot",
+                "source_type": "Starter Corpus",
+                "distance": 1.2996
+            },
+            {
+                "title": "Beer (Devon)",
+                "url": "https://simple.wikipedia.org/wiki/Beer%20%28Devon%29",
+                "source_type": "Starter Corpus",
+                "distance": 1.31
+            },
+            {
+                "title": "Giant panda",
+                "url": "https://simple.wikipedia.org/wiki/Giant%20panda",
+                "source_type": "Starter Corpus",
+                "distance": 1.3726
+            }
+        ],
+        "generated_answer": "I do not know if Beer Braised Mammoth is part of a common diet plan. The provided context only mentions it as a \"classic, hearty culinary dish\" prized by warriors and tradesfolk of Norrath, but does not provide information on its commonality in diet plans. [1] Beer_Braised_Mammoth.txt, local://Beer_Braised_Mammoth.txt",
+        "grounded_correctly": "Yes, though some good info was brought up"
+    },
+    {
+        "query_id": "P2_Q9",
+        "query_text": "Are the ingredients in a Jumjum pie available in America?",
+        "top_k_sources": [
+            {
+                "title": "Jumjum_Pie.txt",
+                "url": "local://Jumjum_Pie.txt",
+                "source_type": "New Item",
+                "distance": 0.676
+            },
+            {
+                "title": "Clematis",
+                "url": "https://simple.wikipedia.org/wiki/Clematis",
+                "source_type": "Starter Corpus",
+                "distance": 1.1987
+            },
+            {
+                "title": "Pie",
+                "url": "https://simple.wikipedia.org/wiki/Pie",
+                "source_type": "Starter Corpus",
+                "distance": 1.2047
+            },
+            {
+                "title": "Wakame",
+                "url": "https://simple.wikipedia.org/wiki/Wakame",
+                "source_type": "Starter Corpus",
+                "distance": 1.2179
+            }
+        ],
+        "generated_answer": "I do not know. The provided context does not mention the availability of Jumjum in America. According to [1] Jumjum_Pie.txt, local://Jumjum_Pie.txt, Jumjum is a crop grown locally in the region's farms of Rivervale, but it does not provide information about its availability in America.",
+        "grounded_correctly": "Yes"
+    },
+    {
+        "query_id": "P2_Q10",
+        "query_text": "Did anyone eat Bat Wing Crunchies during World War II?",
+        "top_k_sources": [
+            {
+                "title": "Bat_Wing_Crunchies.txt",
+                "url": "local://Bat_Wing_Crunchies.txt",
+                "source_type": "New Item",
+                "distance": 0.7461
+            },
+            {
+                "title": "Bandicoot",
+                "url": "https://simple.wikipedia.org/wiki/Bandicoot",
+                "source_type": "Starter Corpus",
+                "distance": 1.2988
+            },
+            {
+                "title": "December 26",
+                "url": "https://simple.wikipedia.org/wiki/December%2026",
+                "source_type": "Starter Corpus",
+                "distance": 1.3154
+            },
+            {
+                "title": "February 4",
+                "url": "https://simple.wikipedia.org/wiki/February%204",
+                "source_type": "Starter Corpus",
+                "distance": 1.3327
+            }
+        ],
+        "generated_answer": "I do not know. The provided context does not contain information about the consumption of Bat Wing Crunchies during World War II. According to [1] title: Bat_Wing_Crunchies.txt, url: local://Bat_Wing_Crunchies.txt, Bat Wing Crunchies are a baked snack consumed by adventurers across Norrath, but there is no mention of World War II. The World War II information is found in [3] title: December 26, url: https://simple.wikipedia.org/wiki/December%2026 and [4] title: February 4, url: https://simple.wikipedia.org/wiki/February%204, but it does not mention Bat Wing Crunchies.",
+        "grounded_correctly": "Yes"
+    }
+]
