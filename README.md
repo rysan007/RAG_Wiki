@@ -30,10 +30,12 @@ python data_process.py
 
 ### Step 2: Run Part 1 (10 Baseline Queries)
 (Note: Make sure to populate queries.json)
+
 python run_part1.py
 
 ### Step 3: Run Part 2 (Custom Knowledge & Cross-Corpus Queries)
 (Note: Ensure your 5 custom .txt files are in the /data directory first)
+
 python run_part2.py
 
 ### Step 4: Generate Markdown Report
