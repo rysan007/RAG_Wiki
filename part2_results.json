@@ -29,7 +29,7 @@
             }
         ],
         "generated_answer": "The main benefit of consuming a Jumjum pie is that it increases a traveler's health regeneration rate when they are resting outside of combat. (Source: Jumjum_Pie.txt, local://Jumjum_Pie.txt)",
-        "grounded_correctly": "Yes"
+        "grounded_correctly": ""
     },
     {
         "query_id": "P2_Q2",
@@ -61,7 +61,7 @@
             }
         ],
         "generated_answer": "The leader of the village of Rivervale is Mayor Gubbin, a former rogue who is famously wealthy, as stated in [1] Rivervale.txt, local://Rivervale.txt.",
-        "grounded_correctly": "Yes"
+        "grounded_correctly": ""
     },
     {
         "query_id": "P2_Q3",
@@ -93,7 +93,7 @@
             }
         ],
         "generated_answer": "The primary ingredient needed for Bat Wing Crunchies is bat wings, which are commonly harvested from the various giant bats found in caves and across the Butcherblock Mountains. (Source: Bat_Wing_Crunchies.txt, local://Bat_Wing_Crunchies.txt)",
-        "grounded_correctly": "Yes"
+        "grounded_correctly": ""
     },
     {
         "query_id": "P2_Q4",
@@ -125,7 +125,7 @@
             }
         ],
         "generated_answer": "The Beer Braised Mammoth recipe uses mammoth meat, specifically thick mammoth steaks, which are harvested from massive mammoths roaming the frozen tundras of Everfrost. (Source: Beer_Braised_Mammoth.txt, local://Beer_Braised_Mammoth.txt)",
-        "grounded_correctly": "Yes"
+        "grounded_correctly": ""
     },
     {
         "query_id": "P2_Q5",
@@ -157,7 +157,7 @@
             }
         ],
         "generated_answer": "The name of the legendary raft is The Gwenavyne. It is used to travel across the frigid waters surrounding Halas, but the text does not specifically state that it travels from Halas to Everfrost, only that it is used to travel across the waters surrounding the city, which is located near the Everfrost Peaks. (Source: Halas.txt, local://Halas.txt)",
-        "grounded_correctly": "Yes"
+        "grounded_correctly": ""
     },
     {
         "query_id": "P2_Q6",
@@ -188,8 +188,8 @@
                 "distance": 1.2063
             }
         ],
-        "generated_answer": "I do not know. The provided context does not contain information about the economic output of Rivervale or a comprehensive economic output of France. [2] title: Rivervale.txt, url: local://Rivervale.txt, describes Rivervale as having \"tranquil farms, bustling docks\", but does not provide specific economic data. The context does provide information about the economic activities of specific cities in France, such as Marseille [3] title: Marseille, url: https://simple.wikipedia.org/wiki/Marseille, and Bordeaux [4] title: Bordeaux, url: https://simple.wikipedia.org/wiki/Bordeaux, but not enough to compare to Rivervale.",
-        "grounded_correctly": "Yes"
+        "generated_answer": "I do not know. The provided context does not contain information about the economic output of Rivervale or a comprehensive economic output of France. [2] title: Rivervale.txt, url: local://Rivervale.txt, describes Rivervale as having \"tranquil farms, bustling docks\", but does not provide specific economic data. The context does provide some economic information about specific cities in France, such as Marseille [3] and Bordeaux [4], but it is not enough to determine the overall economic output of France or compare it to Rivervale.",
+        "grounded_correctly": ""
     },
     {
         "query_id": "P2_Q7",
@@ -220,8 +220,8 @@
                 "distance": 1.2555
             }
         ],
-        "generated_answer": "Based on the provided context, the harsh, frozen climate of Halas, as described in [1] title: Halas.txt, is similar to a Polar climate, as defined in [4] title: Climate, url: https://simple.wikipedia.org/wiki/Climate. According to [4], a Polar climate has long, usually very cold winters, and short summers, which matches the description of Halas as a \"harsh, frozen city\". \n\nTherefore, yes, a climate similar to Halas could exist on Earth, in regions with a Polar climate.",
-        "grounded_correctly": "Yes, a good relation of climates was made"
+        "generated_answer": "Based on the provided context, the harsh, frozen climate of Halas, as described in [1] title: Halas.txt, is similar to a Polar climate, as defined in [4] title: Climate, url: https://simple.wikipedia.org/wiki/Climate. Polar climates have long, cold winters and short summers, which matches the description of Halas as a \"harsh, frozen city\" located in the \"northern reaches of Antonica\" with \"lacerating cold\" due to the Everfrost Peaks.\n\nOn Earth, such a climate can be found in polar regions, such as Antarctica, which is mentioned in [2] title: Chile, url: https://simple.wikipedia.org/wiki/Chile, as a part of the continent claimed by Chile.\n\nTherefore, yes, the harsh climate of Halas could exist on Earth, specifically in polar regions.",
+        "grounded_correctly": ""
     },
     {
         "query_id": "P2_Q8",
@@ -253,7 +253,7 @@
             }
         ],
         "generated_answer": "I do not know if Beer Braised Mammoth is part of a common diet plan. The provided context only mentions it as a \"classic, hearty culinary dish\" prized by warriors and tradesfolk of Norrath, but does not provide information on its commonality in diet plans. [1] Beer_Braised_Mammoth.txt, local://Beer_Braised_Mammoth.txt",
-        "grounded_correctly": "Yes, though some good info was brought up"
+        "grounded_correctly": ""
     },
     {
         "query_id": "P2_Q9",
@@ -285,7 +285,7 @@
             }
         ],
         "generated_answer": "I do not know. The provided context does not mention the availability of Jumjum in America. According to [1] Jumjum_Pie.txt, local://Jumjum_Pie.txt, Jumjum is a crop grown locally in the region's farms of Rivervale, but it does not provide information about its availability in America.",
-        "grounded_correctly": "Yes"
+        "grounded_correctly": ""
     },
     {
         "query_id": "P2_Q10",
@@ -317,6 +317,6 @@
             }
         ],
         "generated_answer": "I do not know. The provided context does not contain information about the consumption of Bat Wing Crunchies during World War II. According to [1] title: Bat_Wing_Crunchies.txt, url: local://Bat_Wing_Crunchies.txt, Bat Wing Crunchies are a baked snack consumed by adventurers across Norrath, but there is no mention of World War II. The World War II information is found in [3] title: December 26, url: https://simple.wikipedia.org/wiki/December%2026 and [4] title: February 4, url: https://simple.wikipedia.org/wiki/February%204, but it does not mention Bat Wing Crunchies.",
-        "grounded_correctly": "Yes"
+        "grounded_correctly": ""
     }
 ]

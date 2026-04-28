@@ -25,7 +25,7 @@
             }
         ],
         "generated_answer": "According to [1] Artificial intelligence, Artificial intelligence (AI) is the ability of a computer program or a machine to think and learn. It is also a field of study which tries to make computers \"smart\". They work on their own without being encoded with commands.",
-        "grounded_correctly": "Yes"
+        "grounded_correctly": ""
     },
     {
         "query_id": "Q2",
@@ -53,7 +53,7 @@
             }
         ],
         "generated_answer": "I do not know. The provided context does not mention who is considered the \"father of video games\".",
-        "grounded_correctly": "Yes"
+        "grounded_correctly": ""
     },
     {
         "query_id": "Q3",
@@ -81,7 +81,7 @@
             }
         ],
         "generated_answer": "The capital of Texas is Austin. (Source: [1] Texas, https://simple.wikipedia.org/wiki/Texas and [2] Austin, Texas, https://simple.wikipedia.org/wiki/Austin%2C%20Texas)",
-        "grounded_correctly": "Yes"
+        "grounded_correctly": ""
     },
     {
         "query_id": "Q4",
@@ -109,7 +109,7 @@
             }
         ],
         "generated_answer": "According to [1] Russia, https://simple.wikipedia.org/wiki/Russia, Russia is the largest country in the world.",
-        "grounded_correctly": "Yes"
+        "grounded_correctly": ""
     },
     {
         "query_id": "Q5",
@@ -137,7 +137,7 @@
             }
         ],
         "generated_answer": "According to the context provided by [2] title: Pacific Ocean, url: https://simple.wikipedia.org/wiki/Pacific%20Ocean, the Pacific Ocean is the largest named ocean and it covers one-third of the surface of the entire world.",
-        "grounded_correctly": "Yes"
+        "grounded_correctly": ""
     },
     {
         "query_id": "Q6",
@@ -165,7 +165,7 @@
             }
         ],
         "generated_answer": "Ian Fleming wrote the James Bond series, as stated in [1] James Bond (https://simple.wikipedia.org/wiki/James%20Bond) and confirmed in [3] Ian Fleming (https://simple.wikipedia.org/wiki/Ian%20Fleming).",
-        "grounded_correctly": "Yes"
+        "grounded_correctly": ""
     },
     {
         "query_id": "Q7",
@@ -193,7 +193,7 @@
             }
         ],
         "generated_answer": "The provided context does not contain information about the \"Mario Brothers series\" as a whole. It provides information about specific games and characters, such as Mario Bros. [1], Mario [2], Luigi [3], and Mario Party series [4]. However, based on the information about the game \"Mario Bros.\" [1], it can be inferred that the series may involve Mario and Luigi navigating through levels, defeating enemies, and possibly collecting items. But I do not know the full scope of the Mario Brothers series.",
-        "grounded_correctly": "Yes, though it did not understand that Mario Brothers and Mario Bros. is the same thing."
+        "grounded_correctly": ""
     },
     {
         "query_id": "Q8",
@@ -220,8 +220,8 @@
                 "distance": 1.2144
             }
         ],
-        "generated_answer": "I do not know. The provided context does not contain information about the largest exporter of coffee.",
-        "grounded_correctly": "Yes, specific data was not found"
+        "generated_answer": "I do not know. The provided context does not contain information about the largest exporter of coffee. Sources [1], [2], [3], and [4] do not provide this information.",
+        "grounded_correctly": ""
     },
     {
         "query_id": "Q9",
@@ -249,7 +249,7 @@
             }
         ],
         "generated_answer": "According to the source \"Milky Way\" (https://simple.wikipedia.org/wiki/Milky%20Way), the Milky Way has a diameter of about 170,000 or 200,000 light years.",
-        "grounded_correctly": "Yes"
+        "grounded_correctly": ""
     },
     {
         "query_id": "Q10",
@@ -277,6 +277,6 @@
             }
         ],
         "generated_answer": "I do not know. The provided context does not mention EverQuest or its classes. The context only discusses Think Quest, an educational website, and other unrelated topics.",
-        "grounded_correctly": "Yes, this obscure subject was not included in the extracted dataset"
+        "grounded_correctly": ""
     }
 ]
