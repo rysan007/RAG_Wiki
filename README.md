@@ -29,6 +29,7 @@ Execute the scripts in the following order to reproduce the results:
 python data_process.py
 
 ### Step 2: Run Part 1 (10 Baseline Queries)
+(Note: Make sure to populate queries.json)
 python run_part1.py
 
 ### Step 3: Run Part 2 (Custom Knowledge & Cross-Corpus Queries)
